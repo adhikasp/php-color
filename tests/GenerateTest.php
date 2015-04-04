@@ -178,4 +178,9 @@ class HexTest extends PHPUnit_Framework_TestCase {
     $this->assertEquals("#ABCDEF", $color->toRgbString());
   }
 
+  public function testFromWavelength(){
+    $color = new Color();
+    $color->fromWavelength(475);
+    $this->assertEquals("#00C0FF", $color->toRgbString());
+  }
 }
