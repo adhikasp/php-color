@@ -1,5 +1,5 @@
 {
-    "name": "matthewbaggett/php-color",
+    "name": "hasbridge/php-color",
     "description": "Color utility class for PHP 5.3 that allows for easy conversion between RGB, HSV, XYZ, and Lab colorspaces, as well as color comparison",
     "license": "MIT",
     "autoload": {
@@ -22,7 +22,7 @@
     "repositories": [
         {
             "type": "git",
-            "url": "https://github.com/matthewbaggett/php-color"
+            "url": "https://github.com/adhikasp/php-color"
         }
     ]
 }

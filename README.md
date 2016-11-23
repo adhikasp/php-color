@@ -1,6 +1,9 @@
 # PHP Color Utility Class
 
-![Travis CI](https://travis-ci.org/matthewbaggett/php-color.svg) [![Code Climate](https://codeclimate.com/github/matthewbaggett/php-color/badges/gpa.svg)](https://codeclimate.com/github/matthewbaggett/php-color) [![Test Coverage](https://codeclimate.com/github/matthewbaggett/php-color/badges/coverage.svg)](https://codeclimate.com/github/matthewbaggett/php-color)
+![Travis CI](https://travis-ci.org/adhikasp/php-color.svg) [![Code Climate](https://codeclimate.com/github/adhikasp/php-color/badges/gpa.svg)](https://codeclimate.com/github/adhikasp/php-color) [![Test Coverage](https://codeclimate.com/github/adhikasp/php-color/badges/coverage.svg)](https://codeclimate.com/github/adhikasp/php-color)
+
+This is a fork of [hasbridge/php-color](https://github.com/hasbridge/php-color)
+because the original maintainer seems to be inactive.
 
 This class is intended to make it easier to convert between colorspaces,
 as well as compare one color to another.
